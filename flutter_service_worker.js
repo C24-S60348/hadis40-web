@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"flutter_bootstrap.js": "f21438fdab4f5fc706ca23c48db1ce18",
+const RESOURCES = {"flutter_bootstrap.js": "3423410f583e1bf01c03f622e991a901",
 "version.json": "c8a7f09b8f70141ceb3d301afc26152f",
 "index.html": "4b2417b534ff428c723e59a600220f00",
 "/": "4b2417b534ff428c723e59a600220f00",
@@ -19,10 +19,10 @@ const RESOURCES = {"flutter_bootstrap.js": "f21438fdab4f5fc706ca23c48db1ce18",
 "assets/NOTICES": "178072a55c09a3b2358a27d9d9c34641",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/AssetManifest.bin.json": "35921b932300399e003451abd1ea020f",
-"assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "b93248a553f9e8bc17f1065929d5934b",
+"assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "33b7d9392238c04c131b6ce224e13711",
 "assets/shaders/ink_sparkle.frag": "ecc85a2e95f5e9f53123dcaf8cb9b6ce",
 "assets/AssetManifest.bin": "9318684605680c019b4cd00199ee355e",
-"assets/fonts/MaterialIcons-Regular.otf": "e7069dfd19b331be16bed984668fe080",
+"assets/fonts/MaterialIcons-Regular.otf": "35a0f36b146090292266dcac70bdd275",
 "assets/assets/images/hadith29_2.png": "212e12414421b305fba5a84138440f1f",
 "assets/assets/images/hadith2_2.png": "31f069ae030058d51321a57c81335d62",
 "assets/assets/images/hadith40.png": "49c7087fae5f1094bebfd332f2b14dd7",
